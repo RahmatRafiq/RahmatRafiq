@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <div align="center">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarpratama&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)
+  [![Tegar Pratama GitHub stats](https://github-readme-stats.vercel.app/api?username=tegarpratama&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)
 </div>
