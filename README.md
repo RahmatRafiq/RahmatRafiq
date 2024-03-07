@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning golang native
 - 📫 How to reach me: rahmatrafiq.1999@gmail.com
 
+
+ <div align="center">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatRafiq&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)  
+ </div>
 <div align="center">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatRafiq&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)
- ![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=vue-dark&hide_border=true)
+ [![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=vue-dark&hide_border=true)]
+ </div>
+<div align="center">
  [![Rahmat Rafiq GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)
-</div>
+ </div> 
+
