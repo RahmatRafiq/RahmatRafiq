@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
  <div align="center">
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatRafiq&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)  
- </div>
-<div align="center">
- [![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=vue-dark&hide_border=true)]
- </div>
-<div align="center">
+  
  [![Rahmat Rafiq GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)
- </div> 
+ 
+ ![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=tokyonight&show_icons=true)
+ 
+ </div>
 
