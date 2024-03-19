@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on bangbeli.id
-- 🌱 I’m currently learning golang native
+🔭 As a backend developer, I have experience working at bangbeli.id.
+- 🌱 I’m currently learning golang native and Gin gorm
 - 📫 How to reach me: rahmatrafiq.1999@gmail.com
 
 
