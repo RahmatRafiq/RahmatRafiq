@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🔭 As a backend developer, I have experience working at bangbeli.id.
-- 🌱 I’m currently learning golang native and Gin gorm
+- 🌱 I’m currently learning Golang native and Gin GORM
 - 📫 How to reach me: rahmatrafiq.1999@gmail.com
 
-
- <div align="center">
+<div align="center">
   
-![Rahmat's GitHub activity graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahmatrafiq&theme=tokyonight&show_icons=true)
+![Rahmat's GitHub activity graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
   
- [![Rahmat Rafiq GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true)](https://github.com/RahmatRafiq)
+[![Rahmat Rafiq GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)](https://github.com/RahmatRafiq)
  
- ![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=tokyonight&show_icons=true)
+![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
  
- </div>
-
+</div>
