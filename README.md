@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Rahmat's GitHub activity graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
+![Rahmat's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
   
 [![Rahmat Rafiq GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)](https://github.com/RahmatRafiq)
  
