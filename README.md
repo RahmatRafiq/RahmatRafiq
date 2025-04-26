@@ -39,12 +39,14 @@
 
 [![Rahmat Rafiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)](https://github.com/RahmatRafiq)
 
+![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
+
 <figure>
   <img src="https://wakatime.com/share/@RahmatRafiq/7c07f5b3-34f3-499b-88d7-e4dce3f01688.svg" width="600" height="300" alt="Wakatime Last 7 Days Activity" />
 </figure>
 
 <figure>
-  <img src="https://wakatime.com/share/@d053aa95-489d-46ed-889c-dc65a7b8a2df/1a32ecb3-fd56-41dd-a4b4-dd5b54bf9b30.svg" width="600" height="300" alt="Wakatime All Time Activity" />
+  <img src="https://wakatime.com/share/@d053aa95-489d-46ed-889c-dc65a7b8a2df/1a32ecb3-fd56-41dd-a4b4-dd5b54bf9b30.svg" alt="Wakatime Activity Graph" >
 </figure>
 
 </div>
