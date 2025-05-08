@@ -6,7 +6,7 @@
 🌱 Currently exploring **Golang Native**, **Gin**, and **GORM** for building scalable backend services.  
 💬 Passionate about clean architecture, modular codebases, and efficient systems.  
 📫 Reach me via: **rahmatrafiq.1999@gmail.com**  
-💼 Connect professionally: [LinkedIn](https://www.linkedin.com/in/rahmatrafiq/)
+💼 Connect professionally: [LinkedIn](https://www.linkedin.com/in/rahmat-079209247/)
 
 ---
 
