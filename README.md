@@ -27,29 +27,46 @@
 
 ---
 
-## 📈 GitHub Stats & Coding Activity
+## 📊 GitHub Stats
+[![Rahmat Rafiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)](https://github.com/RahmatRafiq)
 
+---
+
+## 🏆 Most Used Languages
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
+
+---
+
+## 📅 Contribution Graph
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahmatRafiq&theme=github" alt="Contribution Graph" />
+</div>
 
+---
+
+## 🔥 GitHub Streak
+![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
+
+---
+
+## ⌛ WakaTime — Total Coding Time
 <a href="https://wakatime.com/@d053aa95-489d-46ed-889c-dc65a7b8a2df">
   <img src="https://wakatime.com/badge/user/d053aa95-489d-46ed-889c-dc65a7b8a2df.svg" alt="Wakatime - Total Coding Time" />
 </a>
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
+---
 
-[![Rahmat Rafiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)](https://github.com/RahmatRafiq)
-
-![RahmatRafiq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahmatRafiq&theme=tokyonight&show_icons=true&cache_seconds=1800)
-
+## 📈 WakaTime — Last Year Activity
 <figure>
-  <img src="https://wakatime.com/share/@RahmatRafiq/7c07f5b3-34f3-499b-88d7-e4dce3f01688.svg" width="600" height="300" alt="Wakatime Last 7 Days Activity" />
+  <img src="https://wakatime.com/share/@RahmatRafiq/7c07f5b3-34f3-499b-88d7-e4dce3f01688.svg" width="600" alt="Wakatime Last 7 Days Activity" />
 </figure>
 
-<figure>
-  <img src="https://wakatime.com/share/@d053aa95-489d-46ed-889c-dc65a7b8a2df/1a32ecb3-fd56-41dd-a4b4-dd5b54bf9b30.svg" alt="Wakatime Activity Graph" >
-</figure>
+---
 
-</div>
+## 📊 WakaTime — Longer Activity Graph
+<figure>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RahmatRafiq&theme=tokyonight" />
+</figure>
 
 ---
 
